@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "code": 200,
+    "msg": "Success",
+    "data": [
+        {
+            "id": 1,
+            "date": "2020-03-01",
+            "title": "test dept",
+            "description": "<p>fgdfg</p>",
+            "file_url": "/ems-jupiter/file/notice/departmental_notice/83759a7d-b1d2-445a-b141-ab90f68d6215.png",
+            "class_name": "One"
+        },
+        {
+            "id": 2,
+            "date": "2020-03-01",
+            "title": "test",
+            "description": "<p>asdsa</p>",
+            "file_url": "/ems-jupiter/file/notice/departmental_notice/f11e5b06-d97b-44c5-ac8f-af194d73f58a.pdf",
+            "class_name": "One"
+        }
+    ]
+}
